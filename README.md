@@ -1,5 +1,5 @@
 - basic simple auth for any app
-- - `POST /register` - User registration
+- `POST /register` - User registration
 - `POST /login` - User authentication
 - `POST /logout` - User logout (secured)
 - `GET /current-user` - Get current user info (secured)
